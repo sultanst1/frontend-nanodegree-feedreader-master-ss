@@ -1,3 +1,5 @@
+Open the index file. The Jasmine starts the test page and shows you specs and failures ;
+
 1. Take the JavaScript Testing
 2. Downloading
 3. Review the functionality of the application within your browser.
